@@ -1,7 +1,7 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://riyadhuddin.netlify.app"
 languageCode: "en-us"
-title: "Hugo-profile"
-theme: "./.."
+title: "Riyadh Uddin"
+theme: "portfolio"
 relativeURLs: true
 
 googleanalytics: UA-xxxxxx-x
@@ -31,20 +31,20 @@ params:
 
   # home
   disable_home: false
-  profile_image: "/images/profile.png"
+  profile_image: "/images/riyadhuddin.png"
   name: "Example name"
   namecolor: ffc107
   profession: "Profession"
-  github: "https://github.com"
-  gitlab: "https://gitlab.com"
-  linkedin: "https://linkedin.com"
-  twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
-  facebook: "https://facebook.com"
+  github: "https://github.com/riyadhuddin"
+  gitlab: "https://gitlab.com/riyadhuddin"
+  linkedin: "https://linkedin.com/in/riyadhuddin"
+  twitter: "https://twitter.com/riyadhuddin_"
+  instagram: "https://instagram.com/riyadh_uddin"
+  facebook: "https://facebook.com/iacdrops"
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+  descripe_l1_person: "Hi, I'm Riyadh, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
     - name: CSS
@@ -59,30 +59,23 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Google"
+    - company: "iacdrops"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Software developer"
-      startdate: Feb 2021
+      startdate: November 2021
       enddate: present
       featuredpoints:
         - point: Lead backend developer for a product.
         - point: Created a frontend design for a product.
-    - company: "Facebook"
+    - company: "rbiostudio"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Fullstack developer"
       startdate: Mar 2020
-      enddate: Dec 2020
+      enddate: July 2021
       featuredpoints:
         - point: Lead backend developer for a product.
         - point: Created a frontend design for a product.
-    - company: "Amazon"
-      # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
-      featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+    
 
   # Education
   disable_education: false
