@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-baseURL: "https://riyadhuddin.netlify.app"
-=======
 baseURL: "https://.netlify.app"
->>>>>>> 0932ccac6fb59828d54a3f0c4a9f4d40684dad4c
 languageCode: "en-us"
 title: "Riyadh Uddin"
 theme: "portfolio"
