@@ -23,7 +23,7 @@ https://github.com/gurusabarish/hugo-profile
 ### Demo
 
 - [Live demo V1](https://riyadhuddin.netlify.app/)
-- [Github pages demo](https://riyadhUddin.github.io/portfolio)
+
 
 ## Requirements
 
