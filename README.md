@@ -18,7 +18,7 @@ A high performance and mobile first hugo template for personal portfolio and blo
 
 ### Credit
 
-I spent an amount of effort building this template. It's always disheartening whenever I find that someone use this template without giving me credit. Please, give me proper credit in footer.
+https://github.com/gurusabarish/hugo-profile
 
 ### Demo
 
@@ -44,7 +44,7 @@ I spent an amount of effort building this template. It's always disheartening wh
   - [Issues](#issues)
   - [Contributing](#contributing)
   - [License](#license)
-  - [🤝 Support](#-support)
+
 
 ### Hugo theme format
 
