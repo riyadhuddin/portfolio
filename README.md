@@ -4,7 +4,7 @@
  
 [![Twitter](https://img.shields.io/twitter/url?label=Tweet&style=social&url=https%3A%2F%2Fgithub.com%2FRiyadhUddin%2Fportfolio)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FRiyadhUddin%2Fportfolio) [![GitHub forks](https://img.shields.io/github/forks/RiyadhUddin/portfolio?style=plastic)](https://github.com/RiyadhUddin/portfolio/network) [![GitHub stars](https://img.shields.io/github/stars/RiyadhUddin/portfolio?style=plastic)](https://github.com/RiyadhUddin/portfolio/stargazers)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5c1dcb34-cada-4c80-82b7-cfdbdbd7c774/deploy-status)](https://app.netlify.com/sites/portfolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3eb20429-233a-4538-9d9b-2cadb3be7332/deploy-status)](https://app.netlify.com/sites/riyadhuddin/deploys)
 ![Repository Size](https://img.shields.io/github/repo-size/RiyadhUddin/portfolio)
 ![Latest Release](https://img.shields.io/github/v/release/RiyadhUddin/portfolio?include_prereleases)
 ![Last Commit](https://img.shields.io/github/last-commit/RiyadhUddin/portfolio)
@@ -22,10 +22,8 @@ I spent an amount of effort building this template. It's always disheartening wh
 
 ### Demo
 
-- [Live demo V1](https://portfolio-1.netlify.app)
-- [Live demo V2](https://portfolio-2.netlify.app)
-- [Live demo V3 (latest)](https://portfolio.netlify.app)
-- [Github pages demo](https://RiyadhUddin.github.io/)
+- [Live demo V1](https://riyadhuddin.netlify.app/)
+- [Github pages demo](https://riyadhUddin.github.io/portfolio)
 
 ## Requirements
 
@@ -69,7 +67,7 @@ git clone https://github.com/RiyadhUddin/portfolio.git
 cd portfolio
 ```
 
-- Now create config.yaml file in your root folder and use one of these [v1config](https://github.com/RiyadhUddin/portfolio/blob/master/website/v1.yaml), [v2config](https://github.com/RiyadhUddin/portfolio/blob/master/website/v2.yaml), [v3config](https://github.com/RiyadhUddin/portfolio/blob/master/website/v3.yaml) as base template.
+- Now create config.yaml file in your root folder and use one of these [v1config](https://github.com/riyadhUddin/portfolio/blob/master/website/v1.yaml), [v2config](https://github.com/riyadhUddin/portfolio/blob/master/website/v2.yaml), [v3config](https://github.com/riyadhUddin/portfolio/blob/master/website/v3.yaml) as base template.
 - Run your site using `hugo serve` commend
 
 ### Direct deployment using netlify
@@ -90,7 +88,7 @@ Run `hugo`. It will generate a folder called public. You can use the files insid
 
 ## Issues
 
-If you have a question, please [open an issue](https://github.com/RiyadhUddin/portfolio/issues) for help and to help those who come after you. The more information you can provide, the better!
+If you have a question, please [open an issue](https://github.com/gurusabarish/hugo-profile/issues) for help and to help those who come after you. The more information you can provide, the better!
 
 ## Contributing
 
@@ -99,9 +97,3 @@ Contributions, issues, and feature requests are welcome! For major changes, plea
 ## License
 
 Licensed under [MIT](LICENSE)
-
-## 🤝 Support
-
-Give a ⭐️ if you like this project!
-
-<a href="https://ko-fi.com/riyadhuddin" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="145" alt="Buy Me A Coffee"></a>
