@@ -1,12 +1,12 @@
 name = "Hugo Profile"
 license = "MIT"
-licenselink = "https://github.com/gurusabarish/hugo-profile/blob/master/LICENSE"
+licenselink = "https://github.com/riyadhuddin/portfolio/blob/master/LICENSE"
 description = "A high performance and mobile first hugo template for personal portfolio and blog."
-homepage = "https://github.com/gurusabarish/hugo-profile"
-demosite = "https://hugo-profile.netlify.app"
+homepage = "https://github.com/riyadhuddin/portfolio"
+demosite = "https://iacdrops.xyz"
 tags = ["Responsive","Blog", "Portfolio", "Personal"]
-min_version = "0.68.0"
+min_version = "0.82.0"
 
 [author]
-  name = "Gurusabarish"
-  homepage = "https://www.linkedin.com/in/gurusabarish/"
+  name = "Riyadh Uddin"
+  homepage = "https://www.linkedin.com/in/riyadhuddin/"
