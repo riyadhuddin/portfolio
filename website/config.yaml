@@ -124,9 +124,9 @@ params:
   email: "itssend@gmail.com"
 
   # Footer
-  socialiconfooter: false
-  recentposts: false
+  socialiconfooter: true
+  recentposts: true
 
   # Blog
-  showdescription: false
-  tweet: false
+  showdescription: true
+  tweet: true
